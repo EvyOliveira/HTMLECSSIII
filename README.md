@@ -1,6 +1,5 @@
 
 # Barbearia Alura
 
-Segundo módulo do curso de HTML5 e CSS3 da Alura. Este projeto consiste na representação de uma barbearia, utilização de boas práticas e navegação entre páginas com foco em posicionamento, divisões semânticas e listas.
+Terceiro módulo do curso de HTML5 e CSS3 da Alura. Este projeto consiste na criação de uma página de contatos com o desenvolvimento de formulário complexo, melhoria semântica, CSS avançado e estrutura tabular.
 As tecnologias empregadas foram baseados em HTML5 e CSS3.
-"# HTMLECSSIII" 
